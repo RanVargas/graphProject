@@ -1,0 +1,10 @@
+# ninja log v5
+1	142	6781463001381829	CMakeFiles/graphProyect.dir/main.c.obj	900bb9a54fb5202
+142	320	6781463003126093	graphProyect.exe	273a688471d6f6ab
+1	119	6781504214612007	CMakeFiles/graphProyect.dir/main.c.obj	900bb9a54fb5202
+2	78	6781509883376166	CMakeFiles/graphProyect.dir/main.c.obj	900bb9a54fb5202
+78	153	6781509884106167	graphProyect.exe	273a688471d6f6ab
+1	70	6781510895075485	CMakeFiles/graphProyect.dir/main.c.obj	900bb9a54fb5202
+71	143	6781510895775466	graphProyect.exe	273a688471d6f6ab
+2	219	6781537031367938	CMakeFiles/graphProyect.dir/main.c.obj	900bb9a54fb5202
+220	400	6781537033146353	graphProyect.exe	273a688471d6f6ab
